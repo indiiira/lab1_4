@@ -1,0 +1,10 @@
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\bin\Debug\Lab1Ypr4.exe.config
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\bin\Debug\Lab1Ypr4.exe
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\bin\Debug\Lab1Ypr4.pdb
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\Lab1Ypr4.ChildForm.resources
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\Lab1Ypr4.ParentForm.resources
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\Lab1Ypr4.Properties.Resources.resources
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\Lab1Ypr4.exe
+C:\Users\Индира\source\repos\Lab1Ypr4\Lab1Ypr4\obj\Debug\Lab1Ypr4.pdb
